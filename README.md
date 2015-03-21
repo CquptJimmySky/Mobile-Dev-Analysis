@@ -29,8 +29,8 @@ Analysis of android or java
 | Projects                                           | Member   | Buddy  |
 | :------------------------------------------------- | :------- | :--:   |
 | Android view                                       |          |        |
-| Java以及Android网络请求（TCP,UDP,HTTP)             | 万致远1  |        |
-| Android图片处理                                    | 万致远2  |        |
+| Java以及Android网络请求（TCP,UDP,HTTP)             | CquptJimmySky  |        |
+| Android图片处理                                    | CquptJimmySky  |        |
 | Android多媒体开发                                  |          |        |
 | Java类集框架原理以及实现                           |          |        |
 | Java并发(多线程等)                                 |          |        |
