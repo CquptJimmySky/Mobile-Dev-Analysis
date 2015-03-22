@@ -28,6 +28,7 @@ Analysis of android or java
 
 | Projects                                           | Member   | Buddy  |
 | :------------------------------------------------- | :------- | :--:   |
+<<<<<<< HEAD
 | Android view                                       |          |        |
 | Java以及Android网络请求（TCP,UDP,HTTP)             | CquptJimmySky  |        |
 | Android图片处理                                    | CquptJimmySky  |        |
@@ -39,3 +40,17 @@ Analysis of android or java
 | Android四大组件（二）：contentprovider，broadcaster|          |        |
 | Android数据通信（AIDL等）                          |          |        |
 | Android插件化（Java类加载）                        |          |        |
+=======
+| Android view                                       |   kachidoki, moiling ,luoyy      |        |
+| Java以及Android网络请求（TCP,UDP,HTTP)             |   KirinRyuuri,Jim_Ryna,doubleItTowang,CquptJimmySky            |        |
+| Android图片处理                                    |  Stardust,Geome-try,Francs001                            |        |
+| Android多媒体开发                                  |   DragonLz,zjj7725,myValentine  |        |
+| Java类集框架原理以及实现                           | gcq0409,skyline71,Taraer          |        |
+| Java并发(多线程等)                                 |      Kermit95,qiujinfeng2014    |        |
+| NDK                                                |          |        |
+| Android四大组件（一）：activity，service           |cappuccinoqi,liuyubo,shidm      |        |
+| Android四大组件（二）：contentprovider,broadcaster |4Lyu,srtianxia,KevinHuangK          |        |
+| Android数据通信（AIDL等）                          |Fukago,Howerd-Liu,Jude95          |        |
+| Android插件化（Java类加载）                        |    Dflybirds,Hola-V,zengying1  |        |
+
+>>>>>>> e9e07b39fcb2dbb50ad181e1b9e2ab5d32ed850c
